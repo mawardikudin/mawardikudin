@@ -38,7 +38,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,react,nodejs,laravel,bootstrap,git,github,arduino,mysql,tensorflow&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,php,cpp,html,css,javascript,nodejs,laravel,bootstrap,git,github,arduino,mysql,tensorflow&perline=7" />
 </p>
 
 ---
